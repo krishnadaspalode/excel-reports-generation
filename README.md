@@ -1,5 +1,15 @@
-# excelreportsgeneration
+<h1 align="center">Excel Reports Generation</h1>
+
 Create excel report from javascript which supports multiple sheets
+
+<p align="center">
+  <a href="https://github.com/krishnadaspalode/excelreportsgeneration" target="_blank">
+    <img src="https://github.com/krishnadaspalode/excelreportsgeneration/tree/main/result/view.png" alt="Preview" title="" width="60%">
+    <br/>
+    <br/>
+    <img src="https://github.com/krishnadaspalode/excelreportsgeneration/tree/main/result.png" alt="Preview" title="" width="60%">
+  </a>
+</p>
 
 A strigh forward way to create excel reports with multiple sheets in it.
 
