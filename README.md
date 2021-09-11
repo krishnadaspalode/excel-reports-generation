@@ -22,24 +22,26 @@ Ref URL : https://libraries.io/bower/js-xlsx-style
 We can use only the min.js files alone also in our application.
 
 <script lang="javascript" src="xlsx.full.min.js"></script>
+&
 <script lang="javascript"  src="jszip.js"></script>
 
 and Finally the fileSaver.js file for export functionality,
 
 <script src="FileSaver.js"></script>
 
-The script file can be obtained fromthe code or from URL : https://github.com/eligrey/FileSaver.js/tree/master/src
+The script file can be obtained from the code or from below github
 
+Ref URL : https://github.com/eligrey/FileSaver.js/tree/master/src
 
 
 Steps to remmeber:
 
-*   Specify column structre
-*   Specify column width properties
+*   Specify the sheet structure
+*   Specify column structre & width properties
 *   Prepare data array
 *   Create column headers
 *   Iterate and insert data with relevant modifications as per requirement
-*   Export report
+*   Export report using fileSaver functionalities
 
 
 
