@@ -37,9 +37,9 @@ and
 <script lang="javascript"  src="jszip.js"></script>
 ```
 and Finally the fileSaver.js file for export functionality,
-
+```sh
 <script src="FileSaver.js"></script>
-
+```
 The file can be obtained from the code or from below github
 
 Ref URL : https://github.com/eligrey/FileSaver.js/tree/master/src
@@ -58,10 +58,10 @@ Steps to remmeber:
 
 <p align="center">
   <a href="https://github.com/krishnadaspalode/excelreportsgeneration" target="_blank">
-    <img src="https://github.com/krishnadaspalode/excelreportsgeneration/result/view.png" alt="View" title="" width="60%">
+    <img src="https://github.com/krishnadaspalode/excelreportsgeneration/blob/main/result/view.png" alt="View" title="" width="60%">
     <br/>
     <br/>
-    <img src="https://github.com/krishnadaspalode/excelreportsgeneration/result/result.png" alt="Report" title="" width="60%">
+    <img src="https://github.com/krishnadaspalode/excelreportsgeneration/blob/main/result/report.png" alt="Report" title="" width="60%">
   </a>
 </p>
 
