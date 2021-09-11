@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <style>
+        body {
+            height: 100vh;
+            background: #847c90;
+            color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .btn {
+            font-size: 2em;
+            background: #0bd80b;
+            color: white;
+            padding: 3%;
+            border: none;
+            border-radius: 10px;
+        }
+    </style>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" href="/favicon.png"/>
+    <title>Excel Report</title>
+    <script src="excel.js"></script>
+    <script src="FileSaver.js"></script>
+    <script src="jszip.js"></script>
+    <script src="xlsx.min.js"></script>
+</head>
+
+<body>
+    <button type="button" class="btn" onclick="exportReport()">Generate Report</button>
+</body>
+
+</html>
